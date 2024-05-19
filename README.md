@@ -89,6 +89,9 @@
 <span> <img src="images/canva.svg" alt="canva" width="40" height="40">
 ### Tools
 <span> <img src="images/postman.svg" alt="postman" width="40" height="40"/> </span>
+<span> <img src="images/vscode.png" alt="vscode" width="40" height="40"/> </span>
+<span> <img src="images/vs.svg" alt="vs" width="40" height="40"/> </span>
+<span> <img src="images/dbeaver.png" alt="dbeaver" width="40" height="40"/> </span>
 ### Other
 <span> <img src="images/arduino.svg" alt="arduino" width="40" height="40"/> </span>
 <span> <img src="images/git.svg" alt="git" width="40" height="40"/> </span>
