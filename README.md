@@ -84,6 +84,9 @@
 <span> <img src="images/jenkins.svg" alt="jenkins" width="40" height="40"/> </span>
 ### Testing ✏️
 <span> <img src="images/selenium.svg" alt="selenium" width="40" height="40"/> </span>
+<span> <img src="images/nunit.png" alt="nunit" width="40" height="40"/> </span>
+<span> <img src="images/junit.png" alt="junit" width="40" height="40"/> </span>
+<span> <img src="images/pytest.svg" alt="pytest" width="40" height="40"/> </span>
 ### Design 🎨
 <span> <img src="images/figma.svg" alt="figma" width="40" height="40"/> </span>
 <span> <img src="images/canva.svg" alt="canva" width="40" height="40">
