@@ -17,74 +17,82 @@
 
 ## Skills
 ### Programming
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </span> 
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </span>
+<span> <img src="images/c.svg" alt="c" width="40" height="40"/> </span> 
+<span> <img src="images/c++.svg" alt="cplusplus" width="40" height="40"/> </span>
+<span> <img src="images/cshap.svg" alt="csharp" width="40" height="40"/> </span>
+<span> <img src="images/java.svg" alt="java" width="40" height="40"/> </span>
+<span> <img src="images/javascript.svg" alt="javascript" width="40" height="40"/> </span>
+<span> <img src="images/typescript.svg" alt="typescript" width="40" height="40"/> </span>
+<span> <img src="images/python.svg" alt="python" width="40" height="40"/> </span>
+<span> <img src="images/jquery.svg" alt="jquery" width="40" height="40"/> </span>
 ### Frontend
-<span> <img src="https://github.com/angular/angular/blob/main/adev/src/assets/images/press-kit/angular_icon_gradient.gif?raw=true" alt="angular" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </span>
-<span> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </span>
+<span> <img src="images/angular.gif" alt="angular" width="40" height="40"/> </span>
+<span> <img src="images/react.svg" alt="react" width="40" height="40"/> </span>
+<span> <img src="images/css3.svg" alt="css3" width="40" height="40"/> </span>
+<span> <img src="images/gulp.svg" alt="gulp" width="40" height="40"/> </span>
+<span> <img src="images/html5.svg" alt="html5" width="40" height="40"/> </span>
+<span> <img src="images/pug.svg" alt="pug" width="40" height="40"/> </span>
+<span> <img src="images/sass.svg" alt="sass" width="40" height="40"/> </span>
+<span> <img src="images/vue.svg" alt="vuejs" width="40" height="40"/> </span>
 ### CSS Framework
-<span> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </span>
-<span> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </span>
-<span><img src="images/primeng.webp" alt="primeng" width="40" height="40"/></span>
+<span> <img src="images/bootstrap.png" alt="bootstrap" width="40" height="40"/> </span>
+<span> <img src="images/bulma.svg" alt="bulma" width="40" height="40"/> </span>
+<span> <img src="images/tailwindcss.svg" alt="tailwind" width="40" height="40"/> </span>
+<span> <img src="images/primeng.webp" alt="primeng" width="40" height="40"/></span>
+<span> <img src="images/ngx-bootstrap.svg" alt="ngxbootstrap" width="40" height="40"/></span>
+<span> <img src="images/nebular.png" alt="nebular" width="40" height="40"/></span>
+<span> <img src="images/nest.png" alt="nest" width="40" height="40"/></span>
+<span> <img src="images/daisyui.png" alt="daisyui" width="40" height="40"/> </span>
+<span> <img src="images/ngzoro.svg" alt="ngzoro" width="40" height="40"/> </span>
 ### Static Site Generators
 <span> <img src="images/nextjs.png" alt="nextjs" width="40" height="40"/> </span>
+<span> <img src="images/blazor.png" alt="blazor" width="40" height="40"/> </span>
+<span> <img src="images/dotnetmvc.png" alt="dotnetmvc" width="40" height="40"/> </span>
 ### Mobile
-<span> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </span>
-<span> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </span>
-<span> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </span>
-<span> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </span>
-<span> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </span>
+<span> <img src="images/reactnative.svg" alt="reactnative" width="40" height="40"/> </span>
+<span> <img src="images/dart.svg" alt="dart" width="40" height="40"/> </span>
+<span> <img src="images/flutter.svg" alt="flutter" width="40" height="40"/> </span>
+<span> <img src="images/ionic.svg" alt="ionic" width="40" height="40"/> </span>
+<span> <img src="images/kotlin.svg" alt="kotlin" width="40" height="40"/> </span>
 ### Backend
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </span>
-<span> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </span>
-<span> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </span>
-<span> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </span>
-<span> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </span>
+<span> <img src="images/dotnet.svg" alt="dotnet" width="40" height="40"/> </span>
+<span> <img src="images/express.svg" alt="express" width="40" height="40"/> </span>
+<span> <img src="images/firebase.svg" alt="firebase" width="40" height="40"/> </span>
+<span> <img src="images/graphql.svg" alt="graphql" width="40" height="40"/> </span>
+<span> <img src="images/nginx.svg" alt="nginx" width="40" height="40"/> </span>
+<span> <img src="images/nodejs.svg" alt="nodejs" width="40" height="40"/> </span>
+<span> <img src="images/rabbitmq.svg" alt="rabbitMQ" width="40" height="40"/> </span>
+<span> <img src="images/springio.svg" alt="spring" width="40" height="40"/> </span>
 ### Database
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </span>
-<span> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </span>
-<span> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </span>
+<span> <img src="images/mongodb.svg" alt="mongodb" width="40" height="40"/> </span>
+<span> <img src="images/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </span>
+<span> <img src="images/mysql.svg" alt="mysql" width="40" height="40"/> </span>
+<span> <img src="images/oracle.svg" alt="oracle" width="40" height="40"/> </span>
+<span> <img src="images/postgresql.svg" alt="postgresql" width="40" height="40"/> </span>
+<span> <img src="images/redis.svg" alt="redis" width="40" height="40"/> </span>
+<span> <img src="images/sqlite.svg" alt="sqlite" width="40" height="40"/> </span>
 ### AI/ML
-<span> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </span>
-<span> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </span>
-<span> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </span>
+<span> <img src="images/opencv.svg" alt="opencv" width="40" height="40"/> </span>
+<span> <img src="images/pandas.svg" alt="pandas" width="40" height="40"/> </span>
+<span> <img src="images/Scikit_learn.svg" alt="scikit_learn" width="40" height="40"/> </span>
+<span> <img src="images/tensorflow.svg" alt="tensorflow" width="40" height="40"/> </span>
 ### Data Visualization
-<span> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </span>
+<span> <img src="images/chartjs.svg" alt="chartjs" width="40" height="40"/> </span>
 <span> <img src="images/powerbi.png" alt="powerbi" height="40" /> </span>
 ### Devops
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </span>
-<span> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </span>
+<span> <img src="images/docker.svg" alt="docker" width="40" height="40"/> </span>
+<span> <img src="images/jenkins.svg" alt="jenkins" width="40" height="40"/> </span>
 ### Testing
-<span> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </span>
+<span> <img src="images/selenium.svg" alt="selenium" width="40" height="40"/> </span>
 ### Design
-<span> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvas" width="40" height="40">
+<span> <img src="images/figma.svg" alt="figma" width="40" height="40"/> </span>
+<span> <img src="images/canva.svg" alt="canva" width="40" height="40">
 ### Tools
-<span> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </span>
+<span> <img src="images/postman.svg" alt="postman" width="40" height="40"/> </span>
 ### Other
-<span> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </span>
-<span> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </span>
+<span> <img src="images/arduino.svg" alt="arduino" width="40" height="40"/> </span>
+<span> <img src="images/git.svg" alt="git" width="40" height="40"/> </span>
+<span> <img src="images/linux.svg" alt="linux" width="40" height="40"/> </span>
 
 ## Github stats 📊
 <details>
