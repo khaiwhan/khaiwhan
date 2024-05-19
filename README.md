@@ -89,7 +89,8 @@
 <span> <img src="images/pytest.svg" alt="pytest" width="40" height="40"/> </span>
 ### Design 🎨
 <span> <img src="images/figma.svg" alt="figma" width="40" height="40"/> </span>
-<span> <img src="images/canva.svg" alt="canva" width="40" height="40">
+<span> <img src="images/canva.svg" alt="canva" width="40" height="40"> </span>
+<span> <img src="images/xd.png" alt="xd" width="40" height="40"> </span>
 ### Tools 🔧
 <span> <img src="images/postman.svg" alt="postman" width="40" height="40"/> </span>
 <span> <img src="images/vscode.png" alt="vscode" width="40" height="40"/> </span>
