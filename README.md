@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sritonchai.p@gmail.com**
 
-- 🚀 More about me  <a href="https://khaiwhan.github.io./" target="_blank">Portfolio </a>
+- <p>🚀 More about me <a href="https://khaiwhan.github.io" target="_blank">Portfolio </a></p>
 
 ## Skills ✨
 ### Programming ⚙️
