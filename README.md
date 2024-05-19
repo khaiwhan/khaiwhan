@@ -37,9 +37,9 @@
 <span> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </span>
 <span> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </span>
 <span> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </span>
+<span><img src="images/primeng.webp" alt="primeng" width="40" height="40"/></span>
 ### Static Site Generators
 <span> <img src="images/nextjs.png" alt="nextjs" width="40" height="40"/> </span>
-<span><img src="images/primeng.webp" alt="primeng" width="40" height="40"/></span>
 ### Mobile
 <span> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </span>
 <span> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </span>
