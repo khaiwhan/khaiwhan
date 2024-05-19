@@ -119,4 +119,4 @@
 
 ## GitHub Profile Trophy 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=khaiwhan)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=khaiwhan&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
