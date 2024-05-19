@@ -15,8 +15,8 @@
 
 - 📫 How to reach me **sritonchai.p@gmail.com**
 
-## Skills
-### Programming
+## Skills ✨
+### Programming ⚙️
 <span> <img src="images/c.svg" alt="c" width="40" height="40"/> </span> 
 <span> <img src="images/c++.svg" alt="cplusplus" width="40" height="40"/> </span>
 <span> <img src="images/cshap.svg" alt="csharp" width="40" height="40"/> </span>
@@ -25,7 +25,7 @@
 <span> <img src="images/typescript.svg" alt="typescript" width="40" height="40"/> </span>
 <span> <img src="images/python.svg" alt="python" width="40" height="40"/> </span>
 <span> <img src="images/jquery.svg" alt="jquery" width="40" height="40"/> </span>
-### Frontend
+### Frontend 💻
 <span> <img src="images/angular.gif" alt="angular" width="40" height="40"/> </span>
 <span> <img src="images/react.svg" alt="react" width="40" height="40"/> </span>
 <span> <img src="images/css3.svg" alt="css3" width="40" height="40"/> </span>
@@ -34,7 +34,7 @@
 <span> <img src="images/pug.svg" alt="pug" width="40" height="40"/> </span>
 <span> <img src="images/sass.svg" alt="sass" width="40" height="40"/> </span>
 <span> <img src="images/vue.svg" alt="vuejs" width="40" height="40"/> </span>
-### CSS Framework
+### CSS Framework 🎨
 <span> <img src="images/bootstrap.png" alt="bootstrap" width="40" height="40"/> </span>
 <span> <img src="images/bulma.svg" alt="bulma" width="40" height="40"/> </span>
 <span> <img src="images/tailwindcss.svg" alt="tailwind" width="40" height="40"/> </span>
@@ -44,17 +44,17 @@
 <span> <img src="images/nest.png" alt="nest" width="40" height="40"/></span>
 <span> <img src="images/daisyui.png" alt="daisyui" width="40" height="40"/> </span>
 <span> <img src="images/ngzoro.svg" alt="ngzoro" width="40" height="40"/> </span>
-### Static Site Generators
+### Static Site Generators 🕹️
 <span> <img src="images/nextjs.png" alt="nextjs" width="40" height="40"/> </span>
 <span> <img src="images/blazor.png" alt="blazor" width="40" height="40"/> </span>
 <span> <img src="images/dotnetmvc.png" alt="dotnetmvc" width="40" height="40"/> </span>
-### Mobile
+### Mobile 📱
 <span> <img src="images/reactnative.svg" alt="reactnative" width="40" height="40"/> </span>
 <span> <img src="images/dart.svg" alt="dart" width="40" height="40"/> </span>
 <span> <img src="images/flutter.svg" alt="flutter" width="40" height="40"/> </span>
 <span> <img src="images/ionic.svg" alt="ionic" width="40" height="40"/> </span>
 <span> <img src="images/kotlin.svg" alt="kotlin" width="40" height="40"/> </span>
-### Backend
+### Backend 🧮
 <span> <img src="images/dotnet.svg" alt="dotnet" width="40" height="40"/> </span>
 <span> <img src="images/express.svg" alt="express" width="40" height="40"/> </span>
 <span> <img src="images/firebase.svg" alt="firebase" width="40" height="40"/> </span>
@@ -63,7 +63,7 @@
 <span> <img src="images/nodejs.svg" alt="nodejs" width="40" height="40"/> </span>
 <span> <img src="images/rabbitmq.svg" alt="rabbitMQ" width="40" height="40"/> </span>
 <span> <img src="images/springio.svg" alt="spring" width="40" height="40"/> </span>
-### Database
+### Database 🛢️
 <span> <img src="images/mongodb.svg" alt="mongodb" width="40" height="40"/> </span>
 <span> <img src="images/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </span>
 <span> <img src="images/mysql.svg" alt="mysql" width="40" height="40"/> </span>
@@ -71,25 +71,25 @@
 <span> <img src="images/postgresql.svg" alt="postgresql" width="40" height="40"/> </span>
 <span> <img src="images/redis.svg" alt="redis" width="40" height="40"/> </span>
 <span> <img src="images/sqlite.svg" alt="sqlite" width="40" height="40"/> </span>
-### AI/ML
+### AI/ML 🤖
 <span> <img src="images/opencv.svg" alt="opencv" width="40" height="40"/> </span>
 <span> <img src="images/pandas.svg" alt="pandas" width="40" height="40"/> </span>
 <span> <img src="images/Scikit_learn.svg" alt="scikit_learn" width="40" height="40"/> </span>
 <span> <img src="images/tensorflow.svg" alt="tensorflow" width="40" height="40"/> </span>
-### Data Visualization
+### Data Visualization 📈
 <span> <img src="images/chartjs.svg" alt="chartjs" width="40" height="40"/> </span>
 <span> <img src="images/powerbi.png" alt="powerbi" height="40" /> </span>
-### Devops
+### Devops 😎
 <span> <img src="images/docker.svg" alt="docker" width="40" height="40"/> </span>
 <span> <img src="images/jenkins.svg" alt="jenkins" width="40" height="40"/> </span>
-### Testing
+### Testing ✏️
 <span> <img src="images/selenium.svg" alt="selenium" width="40" height="40"/> </span>
-### Design
+### Design 🎨
 <span> <img src="images/figma.svg" alt="figma" width="40" height="40"/> </span>
 <span> <img src="images/canva.svg" alt="canva" width="40" height="40">
-### Tools
+### Tools 🔧
 <span> <img src="images/postman.svg" alt="postman" width="40" height="40"/> </span>
-### Other
+### Other 🎈
 <span> <img src="images/arduino.svg" alt="arduino" width="40" height="40"/> </span>
 <span> <img src="images/git.svg" alt="git" width="40" height="40"/> </span>
 <span> <img src="images/linux.svg" alt="linux" width="40" height="40"/> </span>
