@@ -39,6 +39,7 @@
 <span> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </span>
 ### Static Site Generators
 <span> <img src="images/nextjs.png" alt="nextjs" width="40" height="40"/> </span>
+<span><img src="images/primeng.webp" alt="primeng" width="40" height="40"/></span>
 ### Mobile
 <span> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </span>
 <span> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </span>
