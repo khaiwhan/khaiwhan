@@ -11,7 +11,7 @@
 
 - 🤖 I’m currently learning **AI**
 
-- 💬 Ask me about **Frontend, Backend, Database**
+- 💬 Ask me about **Frontend, Backend, Database and Love 💖**
 
 - 📫 How to reach me **sritonchai.p@gmail.com**
 
