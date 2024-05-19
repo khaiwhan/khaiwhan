@@ -69,7 +69,7 @@
 <span> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </span>
 ### Data Visualization
 <span> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </span>
-<span> <img src="https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-brand/icons/Hero_BPI_icon1.png" alt="powerbi" width="40" height="40" /> </span>
+<span> <img src="images/powerbi.png" alt="powerbi" height="40" /> </span>
 ### Devops
 <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </span>
 <span> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </span>
